@@ -10,7 +10,7 @@ More detailed documentation TBD.
 
 ## Architecture 
 
-![architecuture](/achitecuture.jpg)
+![architecuture](/architecture.jpg)
 
 
 
